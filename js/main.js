@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
     document.getElementById("souquan").innerHTML = "技术支持: <a href=\"tencent://message/?Menu=yes&uin=1019692929&Service=300&sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45\" target=\"_blank\">@煜哥</a> ";
-    document.getElementById("copyright").innerHTML = "Copyright &copy; All rights reserved | This template is made with  by<br/> <i class=\"fa fa-heart-o\" aria-hidden=\"true\"></i>VeltGop - BadCeiling<i class=\"fa fa-heart-o\" aria-hidden=\"true\"></i>";
+    document.getElementById("copyright").innerHTML = "Copyright &copy; All rights reserved | This template is made with  by<br/> <i class=\"fa fa-heart-o\" aria-hidden=\"true\"></i>Fxpixel - BadCeiling<i class=\"fa fa-heart-o\" aria-hidden=\"true\"></i>";
 
 
     "use strict";
